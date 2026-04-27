@@ -9,7 +9,7 @@
 - Запущено 2 Python сервера на портах 8888 и 9999
 - Настроен HAProxy с балансировкой Round Robin на TCP уровне (порт 1325)
 
-**Конфигурационный файл:** [`configs/haproxy_task1.cfg`](configs/haproxy_task1.cfg)
+[**Конфигурационный файл**](configs/haproxy_task1.cfg)
 
 ```
 global
@@ -69,7 +69,7 @@ Server 2 Port 9999
 
 - HAProxy слушает порт 8088
 
-**Конфигурационный файл:** [`configs/haproxy_task2.cfg`](configs/haproxy_task2.cfg)
+[**Конфигурационный файл**](configs/haproxy_task2.cfg)
 
 ```
 global
