@@ -119,7 +119,7 @@ listen stats
         stats refresh 5s
 ```
 
-Результаты проверки:
+**Результаты проверки:**
 
 1. Запрос без домена example.local
 
